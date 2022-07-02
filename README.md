@@ -21,7 +21,7 @@
 ---
     
 ### :woman_student: About me :
-I am a CSE student <img src="https://tenor.com/search/bongo+cat+codes-gifs" width="30"> from India.
+I am a CSE student <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30"> from India.
 - :telescope: I’m studying computer science and learning ml.
 
 - :seedling: Exploring Technical Content Writing.
