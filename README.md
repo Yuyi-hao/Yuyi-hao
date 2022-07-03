@@ -12,14 +12,14 @@
   Hey there
   <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px"/>
 </h1>
-  <div>
+ <div>
     
 <div align="center">
   <img src="https://media.giphy.com/media/8qrrHSsrK9xpknGVNF/giphy.gif" width="600" height="300"/>
 </div>
-    
+<div align="left">
 ---
-    
+
 ### :woman_student: About me :
 I am a CSE student <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30"> from India.
 - :telescope: I’m studying computer science and learning ml.
@@ -29,7 +29,7 @@ I am a CSE student <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.g
 - :zap: In my free time, I solve problems on leetcode and read tech articles.
     
 ---
-
+</div>
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
