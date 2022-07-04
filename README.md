@@ -52,13 +52,13 @@ I am a CSE student <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.g
 
 ---
 
-    ### :fire: My Stats :
- <div align="left">
+ ### :fire: My Stats :
+
+<div align="left">
 
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yuyi-hao&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-     
- </div>
-    
+
+ 
     
     
     
