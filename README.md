@@ -20,13 +20,16 @@
     
 ---
     
-### :woman_student: About me :
+ ### :woman_student: About me :   
+<div align = "left">    
+
 I am a CSE student <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30"> from India.
 - :telescope: I’m studying computer science and learning ml.
 
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on leetcode and read tech articles.
+    </div>
     
 ---
 
@@ -49,8 +52,12 @@ I am a CSE student <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.g
 
 ---
 
-### :fire: My Stats :
+    ### :fire: My Stats :
+ <div align="left">
+
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yuyi-hao&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+     
+ </div>
     
     
     
