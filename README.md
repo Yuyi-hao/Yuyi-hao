@@ -49,9 +49,6 @@ I am a CSE student <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.g
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python"  alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
 </div>
-
-
-<img src="https://tenor.com/view/uwu-gif-20766170" width="100"/>
 ---
 
  ### :fire: My Stats :
@@ -60,6 +57,10 @@ I am a CSE student <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.g
 
    ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yuyi-hao&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
    </div>
+   
+<div id="header" align="center">
+  <img src="https://tenor.com/view/uwu-gif-20766170.gif" width="100"/>
+</div>
 
  
     
