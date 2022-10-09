@@ -50,6 +50,8 @@ I am a CSE student <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.g
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
 </div>
 
+
+<img src="https://tenor.com/view/uwu-gif-20766170" width="100"/>
 ---
 
  ### :fire: My Stats :
