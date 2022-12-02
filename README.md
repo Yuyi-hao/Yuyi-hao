@@ -59,7 +59,8 @@ I am a CSE student <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.g
    </div>
    
 <div id="header" align="center">
-  <img src="https://tenor.com/view/uwu-gif-20766170.gif" width="100"/>
+<!--   <img src="https://tenor.com/view/uwu-gif-20766170.gif" width="100"/> -->
+  <img src="https://blog.aweber.com/wp-content/uploads/2021/09/SnowglobeGIF2.gif" width="100"/>
 </div>
 
  
