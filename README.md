@@ -59,7 +59,7 @@ I am a CSE student <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.g
    </div>
    
 <div id="header" align="center">
-  <img src="https://www.gifcen.com/wp-content/uploads/2022/01/cold-morning-gif-3.gif" width="100"/>
+  <img src="https://media.tenor.com/34RGu0piVaAAAAAi/a-pinch-grows-a-pinch-plant.gif" width="100"/>
 </div>
 
  
@@ -78,6 +78,8 @@ I am a CSE student <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.g
 
 <!-- ### Hi there 👋
 <iframe src="https://giphy.com/embed/BNbm4jKFVC31dYUaoh" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/designer-hardwork-hcot-BNbm4jKFVC31dYUaoh">via GIPHY</a></p>
+
+feburary ->   <img src="https://www.gifcen.com/wp-content/uploads/2022/01/cold-morning-gif-3.gif" width="100"/>
 
 
 **Yuyi-hao/Yuyi-hao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
